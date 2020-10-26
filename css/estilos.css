@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+.cabeza{
+    background-color:#0F82FA;
+}
+.caja1{
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
+.caja4{
+	display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.servicios{
+    background-color: #0F82FA;
+}
+.galeria{
+    background-color: #0F82FA;
+}
+
+h1{
+	font-family: 'Lobster', cursive; 
+}
+h3{
+	font-family: 'Lobster', cursive;
+
+}
+p{
+	font-family: 'Kalam', cursive;
+	
+}
+.contactomensaje{
+	display: flex;
+	align-items: center
+}
+.galeriatexto{
+	display: flex;
+	align-items: center;
+}
